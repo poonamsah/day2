@@ -1,5 +1,5 @@
-# day2
-this is my second git repository.
+# day7
+this is my seventh git repository.
 <br>
 author - poonam sah
 <br>
